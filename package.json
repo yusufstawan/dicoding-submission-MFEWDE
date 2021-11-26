@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start-dev": "webpack-dev-server --config webpack.dev.js",
-    "build": "webpack --display-modules --config webpack.prod.js",
+    "build": "webpack --config webpack.prod.js",
     "lint": "eslint ./src",
     "test": "karma start",
     "e2e": "codeceptjs run --steps",
