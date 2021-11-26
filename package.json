@@ -12,7 +12,7 @@
     "build-image": "node sharp.js"
   },
   "keywords": [],
-  "author": "your_name <your.email@domain.com>",
+  "author": "Yusuf Setiyawan <yusufsetiyawan45@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.5",
