@@ -1,0 +1,19 @@
+.favorit-title {
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  margin: auto;
+  font-family: "Pacifico", cursive;
+  margin-top: 15px;
+}
+
+#favorit {
+  display: grid;
+  grid-row-gap: 20px;
+  padding-top: 20px;
+}
+
+.container-favorit {
+  margin: 2em 10%;
+  padding: 10px;
+}

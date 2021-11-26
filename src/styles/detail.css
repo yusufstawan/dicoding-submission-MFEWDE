@@ -1,0 +1,62 @@
+.card-detail {
+  width: 70%;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.detail-title {
+  text-align: center;
+  color: black;
+  font-size: xxx-large;
+  margin: auto;
+  font-family: "Pacifico", cursive;
+}
+
+.detail-content {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.location {
+  text-align: center;
+  font-weight: bold;
+}
+
+.category {
+  text-align: center;
+  font-weight: bold;
+}
+
+.description {
+  text-align: center;
+  margin-top: 15px;
+  padding: 13px;
+}
+
+.foods {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.foods-list {
+  text-align: center;
+}
+
+.drinks {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.drink-list {
+  text-align: center;
+}
+
+.customer-title {
+  margin-top: 15px;
+}
+
+.review {
+  text-align: left;
+  padding: 13px;
+}

@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  background-color: #fbf46d;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+nav .logo {
+  letter-spacing: 4px;
+  font-size: x-large;
+  text-shadow: 1px 1px 1px rgb(54, 52, 52);
+  font-family: "Pacifico", cursive;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  width: 30%;
+  justify-content: space-between;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+  padding: 12px;
+}
+
+nav ul li a:hover {
+  font-weight: bolder;
+  text-shadow: 0.3px 0.1px 1px rgb(54, 52, 52);
+  letter-spacing: 1px;
+}
