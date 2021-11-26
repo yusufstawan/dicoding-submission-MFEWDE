@@ -11,7 +11,7 @@
   min-width: 44px;
   min-height: 44px;
   cursor: pointer;
-  z-index: 2;
+  z-index: 10;
   background-color: #9c9955;
   border: none;
   font-size: x-large;
